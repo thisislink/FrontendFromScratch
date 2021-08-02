@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Semantic HTML</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+      </ul>
+    </nav>
+
+    <main>
+      <h1>What is Semantic HTML</h1>
+      <p>Semantic HTML involves using elements that add meaning to the markup in the HTML document.</p>
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/Semantics" target="_blank">List of Semantic Elements</a>
+    </main>
+  </body>
+
+</html>
