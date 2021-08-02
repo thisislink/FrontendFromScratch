@@ -102,6 +102,11 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 [Back to Table of Contents](#Table-of-Contents)
 
 ## HTML
+* Paragraph Elements
+* Headings
+* Lists
+* Anchor Tags
+* Images
 
 [Back to Table of Contents](#Table-of-Contents)
 
