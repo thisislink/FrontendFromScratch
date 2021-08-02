@@ -102,14 +102,28 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 [Back to Table of Contents](#Table-of-Contents)
 
 ## HTML
+* Comments
 * Paragraph Elements
 * Headings
 * Lists
 * Anchor Tags
 * Images
+* Divs
+* Spans
+* Semantic HTML
+* Forms
+* Tables
 
 [Back to Table of Contents](#Table-of-Contents)
 
 ## CSS
+* Colors
+* Opacity & Alpha Channel
+* Selectors
+* Box Model
+* Position
+* Transitions
+* Transforms
+* Flexbox
 
 [Back to Table of Contents](#Table-of-Contents)
