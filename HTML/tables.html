@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables</title>
+</head>
+<body>
+    <main>
+        <h1>Tables</h1>
+        <h2>Important Info About Tables</h2>
+        <p>Tables should only be used to layout actual data that belongs in a table. In the early days of the web, tables were used to create website layouts and themes, which worked, but is no longer the best practice today.</p>
+
+        <h3>Table Basics</h3>
+        <p>The <code><td></td></code> element represents a single cell in a table.</p>
+        <p>The <code><tr></tr></code> element represents a row of cells in a table and groups a row of cells together.</p>
+        <p>The <code><th></th></code> element represents a header of a group of cells in a table.</p>
+        
+        <p>To make this applicable, we will model our example table after the <a href="https://musicdataservices.com/" target="_blank">Music Data Services Pricing</a> table and add some headers to make the table data more clear.</p>
+
+        <table>
+            <tr>
+                <th>Service Description</th>
+                <th>Pricing</th>
+            </tr>
+            <tr>
+                <td>Conversion of data that the rights holder enters into our proprietary Excel template to CWR or DQI:</td>
+                <td>$10 plus $.05 per work in the file</td>
+            </tr>  
+            <tr>
+                <td>Conversion of data entered into our proprietary Excel template to CWR and DQI formats:	</td>
+                <td>$10 plus $.07 per work in the file</td>
+            </tr> 
+
+            <tr> 
+                <td>If the data that has been entered requires significant cleanup:	</td>
+                <td>$50/hour to prepare the Excel file for conversion</td>
+            </tr> 
+            
+            <tr>
+                <td>If the user sends us a works list from a PRO or database and needs reformat and conversion:	</td>
+                <td>$75/hour</td>
+            </tr> 
+            <tr>
+                <td>Acknowledgement (ACK) file conversion to .csv:	</td>
+                <td>$15 per file</td>
+            </tr>
+        </table>
+    </main>
+    
+</body>
+</html>
