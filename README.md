@@ -102,8 +102,8 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 [Back to Table of Contents](#Table-of-Contents)
 
 ## HTML
-* Comments
-* Paragraph Elements
+* [Comments](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/comments.html)
+* [Paragraph Elements](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/paragraphElement.html)
 * Headings
 * Lists
 * Anchor Tags
