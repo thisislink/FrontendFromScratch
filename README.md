@@ -8,8 +8,8 @@ This repository is to have a place to track and reference my skills, experience 
   * [How Websites Work](#How-Websites-Work)
   * [Frontend vs Backend](#Frontend-vs-Backend)
   * [HTML vs CSS vs JavaScript (JS)](#HTML-vs-CSS-vs-JavaScript)
-* HTML
-* CSS
+* [HTML](#HTML)
+* [CSS](#CSS)
 
 ## Understanding the Internet
 ### Internet Simplified
