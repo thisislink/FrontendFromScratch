@@ -4,15 +4,15 @@ This repository is to have a place to track and reference my skills, experience 
 ## Table of Contents
 
 * [Understanding the Internet](#Understanding-the-Internet)
-  * [What is the Internet?](#What-is-the-internet?)
+  * [What is the Internet?](#Internet-Simplified)
   * [How Websites Work](#How-Websites-Work)
   * [Frontend vs Backend](#Frontend-vs-Backend)
-  * [HTML vs CSS vs JavaScript (JS)](#HTML-vs-CSS-vs-JavaScript-(JS))
+  * [HTML vs CSS vs JavaScript (JS)](#HTML-vs-CSS-vs-JavaScript)
 * HTML
 * CSS
 
 ## Understanding the Internet
-### What is the internet? 
+### Internet Simplified
 #### Definition
 Essentially, it's a bunch of devices that are connected to each other so they can communicate with each other. 
 
@@ -70,8 +70,8 @@ So, when I have my character go into the prone position, aka lay down flat on th
 
 The Response will return the assets aka the visuals (images, video, etc.) in the game, and as a player of the game, I didn't have to think or worry about any of the behind the scenes tasks for Requests, Responses, Web Servers, IP Addresses, etc. 
 
-### HTML vs CSS vs JavaScript (JS)
-I like to think about HTML, CSS and JavaScript in this way:
+### HTML vs CSS vs JavaScript
+I like to think about HTML, CSS and JavaScript (JS for short) in this way:
 
 Think about a car, any car and maybe choose your favorite car. 
 
