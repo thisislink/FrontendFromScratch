@@ -113,7 +113,7 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 * Spans
 * [Semantic HTML](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/semantic-html)
 * Forms
-* Tables
+* [Tables](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/tables.html)
 
 [Back to Table of Contents](#Table-of-Contents)
 
