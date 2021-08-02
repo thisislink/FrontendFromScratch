@@ -4,7 +4,7 @@ This repository is to have a place to track and reference my skills, experience 
 ## Table of Contents
 
 * [Understanding the Internet](#Understanding-the-Internet)
-  * [What is the Internet?](#Internet-Simplified)
+  * [Internet Simplified](#Internet-Simplified)
   * [How Websites Work](#How-Websites-Work)
   * [Frontend vs Backend](#Frontend-vs-Backend)
   * [HTML vs CSS vs JavaScript (JS)](#HTML-vs-CSS-vs-JavaScript)
@@ -24,6 +24,8 @@ HTTP is a standarized set of rules, aka a protocol, for how communication should
 
 HTTP stands for Hyper Text Transfer Protocol.
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ### How Websites Work
 Visit any website of your choice. I'm going to use [Spotify.com](https://spotify.com) for this example.
 
@@ -42,6 +44,8 @@ A 404 Response is a type of HTTP Status Code.
 When a Request is made and the Response returns the correctly expected information, the status code is 200.
 
 You can see a full list of Status Codes referenced in Mozilla's [HTTP response status codes documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
+
+[Back to Table of Contents](#Table-of-Contents)
 
 ### Frontend vs Backend
 If you've been thinking this is a lot of Frontend information to know, you would be correct. 
@@ -70,6 +74,8 @@ So, when I have my character go into the prone position, aka lay down flat on th
 
 The Response will return the assets aka the visuals (images, video, etc.) in the game, and as a player of the game, I didn't have to think or worry about any of the behind the scenes tasks for Requests, Responses, Web Servers, IP Addresses, etc. 
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ### HTML vs CSS vs JavaScript
 I like to think about HTML, CSS and JavaScript (JS for short) in this way:
 
@@ -93,6 +99,12 @@ The same concept applies to a website. You could create a site or an app with ju
 
 Therefore, to have a fully functioning and nice looking website or app, you should use HTML, CSS and JavaScript together.
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ## HTML
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ## CSS
+
+[Back to Table of Contents](#Table-of-Contents)
