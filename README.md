@@ -108,10 +108,10 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 * Lists
 * Anchor Tags
 * Images
-* Block vs Inline Elements
+* [Block vs Inline Elements](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/block-vs-inline.html)
 * Divs
 * Spans
-* Semantic HTML
+* [Semantic HTML](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/semantic-html)
 * Forms
 * Tables
 
