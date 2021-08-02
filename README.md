@@ -104,7 +104,7 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 ## HTML
 * [Comments](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/comments.html)
 * [Paragraph Elements](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/paragraphElement.html)
-* Headings
+* [Headings](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/headings.html)
 * Lists
 * Anchor Tags
 * Images
