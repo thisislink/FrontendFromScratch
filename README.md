@@ -108,6 +108,7 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 * Lists
 * Anchor Tags
 * Images
+* Block vs Inline Elements
 * Divs
 * Spans
 * Semantic HTML
