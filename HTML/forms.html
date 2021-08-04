@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<p>
+    <h1>Forms</h1>
+    <p>Forms are a way to accept and request user input.</p>
+    <p>Forms are created using the <code>&lt;form&gt;&lt;/form&gt;</code> tag and can have several different attributes that control what the form should do when a button is clicked.</p>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#attributes_for_form_submission" target="_blank">List of Form Attributes</a>
+
+    <p>Forms also can contain different types of elements. The most common being the <code>&lt;input&gt;</code> element. If you notice, the input element does not have a closing tag.</p>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/elements" target="_blank">List of Form Elements</a>
+
+    <h2>Inputs</h2>
+    <p>The &lt;input&gt; element can take a type attribute, which can give you several different types of input options.</p>
+
+    <h2>Labels</h2>
+    <p>Labels improve accessibility and make forms easier to use, because you can link the labels to other form controls, like checkboxes.</p>
+    <p>To connect a label to a control element, you use the &lt;for&gt; tag on the label element and the &lt;id&gt; tag on the control element.</p>
+
+    <h2>Buttons</h2>
+    <p>Buttons help make forms interactive and you create a button using the &lt;button&gt;This is a button&lt;/button&gt; tag.</p>
+    <button type="button">This is a button</button>
+
+    <h2>Example Forms</h2>
+
+    <h3>Basic Form with an Input and No Type</h3>
+    <p>Code:</p>
+    <pre>
+        <code>
+            &lt;form&gt;
+                &lt;input&gt;
+            &lt;/form&gt;
+        </code>
+        </pre>
+    
+    <form>
+        <input>
+    </form>
+
+    <h3>Basic Form with an Input and Text Type</h3>
+    <p>Code:</p>
+    <pre>
+        <code>
+            &lt;form&gt;
+                &lt;input type="text"&gt;
+            &lt;/form&gt;
+        </code>
+        </pre>
+    
+    <form>
+        <input type="text">
+    </form>
+
+    <h3>Basic Color Picker Form</h3>
+    <p>Code:</p>
+    <pre>
+        <code>
+            &lt;form&gt;
+                &lt;input type="color"&gt;
+            &lt;/form&gt;
+        </code>
+        </pre>
+    
+    <form>
+        <input type="color">
+    </form>
+
+</body>
+</html>
