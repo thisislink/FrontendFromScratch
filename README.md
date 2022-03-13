@@ -111,7 +111,7 @@ Therefore, to have a fully functioning and nice looking website or app, you shou
 * [Block vs Inline Elements](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/block-vs-inline.html)
 * Divs
 * Spans
-* [Semantic HTML](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/semantic-html)
+* [Semantic HTML](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/semantic-html.html)
 * Forms
 * [Tables](https://github.com/thisislink/FrontendFromScratch/blob/main/HTML/tables.html)
 
